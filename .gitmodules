@@ -1,0 +1,3 @@
+[submodule "config_zsh"]
+	path = config_zsh
+	url = git@github.com:yunse0909/config_zsh.git
